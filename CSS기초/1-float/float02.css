@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  color: #212529;
+}
+
+.pseudo::before {
+  content: "🍎";
+}
+
+.pseudo::after {
+  content: "!";
+}
