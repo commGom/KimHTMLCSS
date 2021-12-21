@@ -29,3 +29,21 @@ p {
 }
 
 /* ▼ WHERE YOUR CODE BEGINS */
+.card {
+  max-width: 700px;
+}
+img {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  float: left;
+  margin: 20px;
+}
+
+.card-content {
+  float: left;
+  margin: 20px 20px 20px 0;
+}
+.card-content p {
+  margin-top: 12px;
+}
